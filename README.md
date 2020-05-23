@@ -1,6 +1,3 @@
-# Project-2-handwritten-digits
+# Project-2-handwritten-digits  
 
-Dataset is taken from MNISt dataset
-Inputs are images of size 28x28x1
-output labels are from 0 to 9 digits
-Coding is done using PyTorch framework
+Coding is done using PyTorch framework. Dataset is taken from MNIST dataset. Input images are of size 28x28x1. Output labels are the digits from 0 to 9.
